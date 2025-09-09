@@ -1,0 +1,6 @@
+<!-- PM Modi Section on Homepage -->
+<section id="pm-modi" class="text-center my-8">
+  <img src="images/pm_modi.jpg" alt="PM Narendra Modi" class="mx-auto rounded-lg shadow-lg w-64 h-auto">
+  <h2 class="text-2xl font-bold mt-4">Shri Narendra Modi</h2>
+  <p class="text-lg text-gray-700">Prime Minister of India</p>
+</section>
